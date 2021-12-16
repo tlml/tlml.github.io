@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrophysics - High Energy Astrophysical Phenomena | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/astrophysics-high-energy-astrophysical-phenomena/</link>
+      <atom:link href="https://tlml.github.io/tag/astrophysics-high-energy-astrophysical-phenomena/index.xml" rel="self" type="application/rss+xml" />
+    <description>Astrophysics - High Energy Astrophysical Phenomena</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Astrophysics - High Energy Astrophysical Phenomena</title>
+      <link>https://tlml.github.io/tag/astrophysics-high-energy-astrophysical-phenomena/</link>
+    </image>
+    
+    <item>
+      <title>Energetic Proton Back-Precipitation onto the Solar Atmosphere in Relation to Long-Duration Gamma-Ray Flares</title>
+      <link>https://tlml.github.io/publication/2020-ar-xiv-201205146-h/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2020-ar-xiv-201205146-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D propagation of relativistic solar protons through interplanetary space</title>
+      <link>https://tlml.github.io/publication/2020-aa-639-a-105-d/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2020-aa-639-a-105-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Diffusion in Structured Turbulence</title>
+      <link>https://tlml.github.io/publication/2012-ap-j-749-103-l/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2012-ap-j-749-103-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isotopic Composition of Light Nuclei in Cosmic Rays: Results from AMS-01</title>
+      <link>https://tlml.github.io/publication/2011-ap-j-736-105-a/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2011-ap-j-736-105-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

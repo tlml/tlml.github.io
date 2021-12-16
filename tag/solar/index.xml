@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>solar | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/solar/</link>
+      <atom:link href="https://tlml.github.io/tag/solar/index.xml" rel="self" type="application/rss+xml" />
+    <description>solar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>solar</title>
+      <link>https://tlml.github.io/tag/solar/</link>
+    </image>
+    
+    <item>
+      <title>SPARX: A modeling system for Solar Energetic Particle Radiation Space Weather forecasting</title>
+      <link>https://tlml.github.io/publication/2015-sp-wea-13-386-m/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2015-sp-wea-13-386-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic (ensuremath∼ 1 to 50 MeV) protons associated with Earth-directed coronal mass ejections</title>
+      <link>https://tlml.github.io/publication/1998-geo-rl-25-2525-t/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/1998-geo-rl-25-2525-t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

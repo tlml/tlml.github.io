@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sun: solar wind | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/sun-solar-wind/</link>
+      <atom:link href="https://tlml.github.io/tag/sun-solar-wind/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sun: solar wind</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Aug 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sun: solar wind</title>
+      <link>https://tlml.github.io/tag/sun-solar-wind/</link>
+    </image>
+    
+    <item>
+      <title>A simple analytical expression for the power spectrum  of cascading Alfvén waves in the solar wind</title>
+      <link>https://tlml.github.io/publication/2003-aa-407-713-v/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2003-aa-407-713-v/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sun: heliosphere | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/sun-heliosphere/</link>
+      <atom:link href="https://tlml.github.io/tag/sun-heliosphere/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sun: heliosphere</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sun: heliosphere</title>
+      <link>https://tlml.github.io/tag/sun-heliosphere/</link>
+    </image>
+    
+    <item>
+      <title>3D propagation of relativistic solar protons through interplanetary space</title>
+      <link>https://tlml.github.io/publication/2020-aa-639-a-105-d/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2020-aa-639-a-105-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of turbulence strength on meandering field lines and Solar Energetic Particle event extents</title>
+      <link>https://tlml.github.io/publication/2018-jswsc-8-a-13-l/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2018-jswsc-8-a-13-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time dependence of Fe/O ratio within a 3D solar energetic particle propagation model including drift</title>
+      <link>https://tlml.github.io/publication/2017-aa-598-a-73-d/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2017-aa-598-a-73-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar energetic particle access to distant longitudes through turbulent field-line meandering</title>
+      <link>https://tlml.github.io/publication/2016-aa-591-a-18-l/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2016-aa-591-a-18-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-induced Deceleration of Solar Energetic Particles</title>
+      <link>https://tlml.github.io/publication/2015-ap-j-808-62-d/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2015-ap-j-808-62-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drift-induced Perpendicular Transport of Solar Energetic Particles</title>
+      <link>https://tlml.github.io/publication/2013-ap-j-774-4-m/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2013-ap-j-774-4-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-field Transport of Solar Energetic Particles in a Large-scale Fluctuating Magnetic Field</title>
+      <link>https://tlml.github.io/publication/2012-ap-j-750-47-k/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2012-ap-j-750-47-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

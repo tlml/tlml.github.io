@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diffusion | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/diffusion/</link>
+      <atom:link href="https://tlml.github.io/tag/diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>diffusion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>diffusion</title>
+      <link>https://tlml.github.io/tag/diffusion/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting Solar Energetic Particle Fluence with Multi-Spacecraft Observations</title>
+      <link>https://tlml.github.io/publication/2018-iaus-335-298-l/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2018-iaus-335-298-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of turbulence strength on meandering field lines and Solar Energetic Particle event extents</title>
+      <link>https://tlml.github.io/publication/2018-jswsc-8-a-13-l/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2018-jswsc-8-a-13-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early propagation of energetic particles across the mean field in turbulent plasmas</title>
+      <link>https://tlml.github.io/publication/2017-mnras-470-3149-l/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2017-mnras-470-3149-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Transport across the Mean Magnetic Field: Before Diffusion</title>
+      <link>https://tlml.github.io/publication/2017-ap-j-834-127-l/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2017-ap-j-834-127-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar energetic particle access to distant longitudes through turbulent field-line meandering</title>
+      <link>https://tlml.github.io/publication/2016-aa-591-a-18-l/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2016-aa-591-a-18-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correcting for Interplanetary Scattering in Velocity Dispersion analysis of Solar Energetic Particles</title>
+      <link>https://tlml.github.io/publication/2015-ap-j-806-114-l/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2015-ap-j-806-114-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Cross-field Propagation Early in a Solar Event</title>
+      <link>https://tlml.github.io/publication/2013-ap-j-773-l-29-l/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2013-ap-j-773-l-29-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Diffusion in Critically Balanced Turbulence</title>
+      <link>https://tlml.github.io/publication/2013-ap-j-764-168-l/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2013-ap-j-764-168-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Diffusion in Structured Turbulence</title>
+      <link>https://tlml.github.io/publication/2012-ap-j-749-103-l/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2012-ap-j-749-103-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heliosphere | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/heliosphere/</link>
+      <atom:link href="https://tlml.github.io/tag/heliosphere/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heliosphere</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Heliosphere</title>
+      <link>https://tlml.github.io/tag/heliosphere/</link>
+    </image>
+    
+    <item>
+      <title>From Sun to Interplanetary Space: What is the Pathlength of Solar Energetic Particles?</title>
+      <link>https://tlml.github.io/publication/2019-ap-j-887-222-l/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2019-ap-j-887-222-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-analytical foreshock model for energetic storm particle events inside 1 AU</title>
+      <link>https://tlml.github.io/publication/2014-jswsc-4-a-08-v/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2014-jswsc-4-a-08-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Interstellar Heliopause Probe: Heliospheric Boundary Explorer Mission to the Interstellar Medium</title>
+      <link>https://tlml.github.io/publication/2009-emp-104-17-w/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2009-emp-104-17-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

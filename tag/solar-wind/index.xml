@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOLAR WIND | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/solar-wind/</link>
+      <atom:link href="https://tlml.github.io/tag/solar-wind/index.xml" rel="self" type="application/rss+xml" />
+    <description>SOLAR WIND</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>SOLAR WIND</title>
+      <link>https://tlml.github.io/tag/solar-wind/</link>
+    </image>
+    
+    <item>
+      <title>Drift-induced Perpendicular Transport of Solar Energetic Particles</title>
+      <link>https://tlml.github.io/publication/2013-ap-j-774-4-m/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2013-ap-j-774-4-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-field Transport of Solar Energetic Particles in a Large-scale Fluctuating Magnetic Field</title>
+      <link>https://tlml.github.io/publication/2012-ap-j-750-47-k/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2012-ap-j-750-47-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceleration of Energetic Particles Through Self-Generated Waves in a Decelerating Coronal Shock</title>
+      <link>https://tlml.github.io/publication/2010-aipc-1216-84-b/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2010-aipc-1216-84-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a self-consistent treatment of the cyclotron wave heating and acceleration of the solar wind plasma</title>
+      <link>https://tlml.github.io/publication/2003-jgra-108-1081-l/</link>
+      <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2003-jgra-108-1081-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relation between cyclotron heating and energetic particles on open coronal field lines</title>
+      <link>https://tlml.github.io/publication/2001-aa-371-738-v/</link>
+      <pubDate>Tue, 01 May 2001 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2001-aa-371-738-v/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

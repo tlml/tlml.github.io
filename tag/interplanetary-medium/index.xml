@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interplanetary medium | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/interplanetary-medium/</link>
+      <atom:link href="https://tlml.github.io/tag/interplanetary-medium/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interplanetary medium</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Interplanetary medium</title>
+      <link>https://tlml.github.io/tag/interplanetary-medium/</link>
+    </image>
+    
+    <item>
+      <title>Forecasting Solar Energetic Particle Fluence with Multi-Spacecraft Observations</title>
+      <link>https://tlml.github.io/publication/2018-iaus-335-298-l/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2018-iaus-335-298-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-analytical foreshock model for energetic storm particle events inside 1 AU</title>
+      <link>https://tlml.github.io/publication/2014-jswsc-4-a-08-v/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2014-jswsc-4-a-08-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interstellar heliospheric probe/heliospheric boundary explorer mission—a mission to the outermost boundaries of the solar system</title>
+      <link>https://tlml.github.io/publication/2009-ex-a-24-9-w/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2009-ex-a-24-9-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sun: Flares | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/sun-flares/</link>
+      <atom:link href="https://tlml.github.io/tag/sun-flares/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sun: Flares</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Sun: Flares</title>
+      <link>https://tlml.github.io/tag/sun-flares/</link>
+    </image>
+    
+    <item>
+      <title>Transmission and Emission of Solar Energetic Particles in Semi-transparent Shocks</title>
+      <link>https://tlml.github.io/publication/2014-ap-j-787-l-21-k/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2014-ap-j-787-l-21-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the Shock Aftermath Source of Energetic Particles in the Solar Corona</title>
+      <link>https://tlml.github.io/publication/2005-ap-j-620-1052-k/</link>
+      <pubDate>Tue, 01 Feb 2005 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2005-ap-j-620-1052-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar energetic particle event and radio bursts associated with the 1996 July 9 flare and coronal mass ejection</title>
+      <link>https://tlml.github.io/publication/2000-aa-360-729-l/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2000-aa-360-729-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interplanetary and Interacting Protons Accelerated in a Parallel Shock Wave</title>
+      <link>https://tlml.github.io/publication/2000-ap-j-528-1015-v/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2000-ap-j-528-1015-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interacting and Interplanetary Protons Accelerated on Diverging Magnetic Field Lines: Stochastic Acceleration</title>
+      <link>https://tlml.github.io/publication/1999-ap-j-521-898-k/</link>
+      <pubDate>Sun, 01 Aug 1999 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/1999-ap-j-521-898-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

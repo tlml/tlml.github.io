@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>solar-terrestrial relations | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/solar-terrestrial-relations/</link>
+      <atom:link href="https://tlml.github.io/tag/solar-terrestrial-relations/index.xml" rel="self" type="application/rss+xml" />
+    <description>solar-terrestrial relations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>solar-terrestrial relations</title>
+      <link>https://tlml.github.io/tag/solar-terrestrial-relations/</link>
+    </image>
+    
+    <item>
+      <title>Drift-induced Perpendicular Transport of Solar Energetic Particles</title>
+      <link>https://tlml.github.io/publication/2013-ap-j-774-4-m/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2013-ap-j-774-4-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-field Transport of Solar Energetic Particles in a Large-scale Fluctuating Magnetic Field</title>
+      <link>https://tlml.github.io/publication/2012-ap-j-750-47-k/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2012-ap-j-750-47-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

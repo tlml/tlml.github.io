@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Timo Laitinen</title>
+    <link>https://tlml.github.io/publication-type/1/</link>
+      <atom:link href="https://tlml.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://tlml.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Perpendicular diffusion of solar energetic particles: When is the diffusion approximation valid?</title>
+      <link>https://tlml.github.io/publication/2020-j-ph-cs-1620-a-2021-s/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2020-j-ph-cs-1620-a-2021-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Test Particle Simulations to Solar Energetic Particle Forecasting</title>
+      <link>https://tlml.github.io/publication/2018-iaus-335-268-d/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2018-iaus-335-268-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting Solar Energetic Particle Fluence with Multi-Spacecraft Observations</title>
+      <link>https://tlml.github.io/publication/2018-iaus-335-298-l/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2018-iaus-335-298-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test-particle simulations of SEP propagation in IMF with large-scale fluctuations</title>
+      <link>https://tlml.github.io/publication/2012-aipc-1500-109-k/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2012-aipc-1500-109-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceleration of Energetic Particles Through Self-Generated Waves in a Decelerating Coronal Shock</title>
+      <link>https://tlml.github.io/publication/2010-aipc-1216-84-b/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2010-aipc-1216-84-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Effect of Pre-event Background in Determining Solar Particle Event Onset</title>
+      <link>https://tlml.github.io/publication/2010-aipc-1216-249-l/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2010-aipc-1216-249-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence transport and shock acceleration in solar corona</title>
+      <link>https://tlml.github.io/publication/2007-aipc-932-350-v/</link>
+      <pubDate>Wed, 01 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2007-aipc-932-350-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the acceleration and wave heating of the solar wind: implications of the mean free path of solar energetic particles</title>
+      <link>https://tlml.github.io/publication/2003-aipc-679-303-l/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2003-aipc-679-303-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solar coronal mass ejections | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/solar-coronal-mass-ejections/</link>
+      <atom:link href="https://tlml.github.io/tag/solar-coronal-mass-ejections/index.xml" rel="self" type="application/rss+xml" />
+    <description>Solar coronal mass ejections</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Solar coronal mass ejections</title>
+      <link>https://tlml.github.io/tag/solar-coronal-mass-ejections/</link>
+    </image>
+    
+    <item>
+      <title>Access of Energetic Particles to a Magnetic Flux Rope from External Magnetic Field Lines</title>
+      <link>https://tlml.github.io/publication/2021-ap-j-906-9-l/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2021-ap-j-906-9-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

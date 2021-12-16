@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cosmic rays | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/cosmic-rays/</link>
+      <atom:link href="https://tlml.github.io/tag/cosmic-rays/index.xml" rel="self" type="application/rss+xml" />
+    <description>cosmic rays</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cosmic rays</title>
+      <link>https://tlml.github.io/tag/cosmic-rays/</link>
+    </image>
+    
+    <item>
+      <title>The effect of turbulence strength on meandering field lines and Solar Energetic Particle event extents</title>
+      <link>https://tlml.github.io/publication/2018-jswsc-8-a-13-l/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2018-jswsc-8-a-13-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Diffusion in Critically Balanced Turbulence</title>
+      <link>https://tlml.github.io/publication/2013-ap-j-764-168-l/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2013-ap-j-764-168-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Diffusion in Structured Turbulence</title>
+      <link>https://tlml.github.io/publication/2012-ap-j-749-103-l/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2012-ap-j-749-103-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isotopic Composition of Light Nuclei in Cosmic Rays: Results from AMS-01</title>
+      <link>https://tlml.github.io/publication/2011-ap-j-736-105-a/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2011-ap-j-736-105-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative Composition and Energy Spectra of Light Nuclei in Cosmic Rays: Results from AMS-01</title>
+      <link>https://tlml.github.io/publication/2010-ap-j-724-329-a/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2010-ap-j-724-329-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interstellar heliospheric probe/heliospheric boundary explorer mission—a mission to the outermost boundaries of the solar system</title>
+      <link>https://tlml.github.io/publication/2009-ex-a-24-9-w/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2009-ex-a-24-9-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of cosmic ray secondaries induced by the Mir space station using AMS-01</title>
+      <link>https://tlml.github.io/publication/2005-nimpb-234-321-a/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2005-nimpb-234-321-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

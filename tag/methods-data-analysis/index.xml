@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>methods: data analysis | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/methods-data-analysis/</link>
+      <atom:link href="https://tlml.github.io/tag/methods-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>methods: data analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>methods: data analysis</title>
+      <link>https://tlml.github.io/tag/methods-data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Correcting for Interplanetary Scattering in Velocity Dispersion analysis of Solar Energetic Particles</title>
+      <link>https://tlml.github.io/publication/2015-ap-j-806-114-l/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2015-ap-j-806-114-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proton and helium release times in SEP events observed with SOHO/ERNE</title>
+      <link>https://tlml.github.io/publication/2005-aa-442-673-h/</link>
+      <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2005-aa-442-673-h/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

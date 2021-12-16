@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solar Flux | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/solar-flux/</link>
+      <atom:link href="https://tlml.github.io/tag/solar-flux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Solar Flux</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Solar Flux</title>
+      <link>https://tlml.github.io/tag/solar-flux/</link>
+    </image>
+    
+    <item>
+      <title>ERNE observations of energetic particle fluxes</title>
+      <link>https://tlml.github.io/publication/1997-ad-sp-r-20-91-t/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/1997-ad-sp-r-20-91-t/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

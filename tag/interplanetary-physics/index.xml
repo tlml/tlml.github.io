@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interplanetary physics | Timo Laitinen</title>
+    <link>https://tlml.github.io/tag/interplanetary-physics/</link>
+      <atom:link href="https://tlml.github.io/tag/interplanetary-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interplanetary physics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Interplanetary physics</title>
+      <link>https://tlml.github.io/tag/interplanetary-physics/</link>
+    </image>
+    
+    <item>
+      <title>Access of Energetic Particles to a Magnetic Flux Rope from External Magnetic Field Lines</title>
+      <link>https://tlml.github.io/publication/2021-ap-j-906-9-l/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2021-ap-j-906-9-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Sun to Interplanetary Space: What is the Pathlength of Solar Energetic Particles?</title>
+      <link>https://tlml.github.io/publication/2019-ap-j-887-222-l/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2019-ap-j-887-222-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
