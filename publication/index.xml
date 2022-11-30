@@ -1,30 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Timo Laitinen</title>
+    <title>Refereed Publications | Timo Laitinen</title>
     <link>https://tlml.github.io/publication/</link>
       <atom:link href="https://tlml.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>Refereed Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
+      <title>Refereed Publications</title>
       <link>https://tlml.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Modeling the Transport of Relativistic Solar Protons along a Heliospheric Current Sheet during Historic GLE Events</title>
+      <link>https://tlml.github.io/publication/2022-ap-j-934-82-w/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2022-ap-j-934-82-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic proton back-precipitation onto the solar atmosphere in relation to long-duration gamma-ray flares</title>
+      <link>https://tlml.github.io/publication/2022-aa-658-a-23-h/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2022-aa-658-a-23-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29</title>
+      <link>https://tlml.github.io/publication/2021-aa-656-a-20-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2021-aa-656-a-20-k/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Access of Energetic Particles to a Magnetic Flux Rope from External Magnetic Field Lines</title>
       <link>https://tlml.github.io/publication/2021-ap-j-906-9-l/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://tlml.github.io/publication/2021-ap-j-906-9-l/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Energetic Proton Back-Precipitation onto the Solar Atmosphere in Relation to Long-Duration Gamma-Ray Flares</title>
-      <link>https://tlml.github.io/publication/2020-ar-xiv-201205146-h/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://tlml.github.io/publication/2020-ar-xiv-201205146-h/</guid>
       <description></description>
     </item>
     

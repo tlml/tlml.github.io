@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited seminar talk | Timo Laitinen</title>
+    <link>https://tlml.github.io/category/invited-seminar-talk/</link>
+      <atom:link href="https://tlml.github.io/category/invited-seminar-talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invited seminar talk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Invited seminar talk</title>
+      <link>https://tlml.github.io/category/invited-seminar-talk/</link>
+    </image>
+    
+    <item>
+      <title>Solar Energetic Particle Propagation in the Heliosphere: Before Diffusion</title>
+      <link>https://tlml.github.io/invited/laitinen-2016-glasgow/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2016-glasgow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle Propagation in the Heliosphere: Before Diffusion</title>
+      <link>https://tlml.github.io/invited/laitinen-2016-imperial/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2016-imperial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of field-line meandering in the early evolution of a Solar Energetic Particle Event</title>
+      <link>https://tlml.github.io/invited/laitinen-2013-bochum-may/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2013-bochum-may/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of field-line meandering in the early evolution of a Solar Energetic Particle Event</title>
+      <link>https://tlml.github.io/invited/laitinen-2013-kiel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2013-kiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particles in Turbulent Heliosphere</title>
+      <link>https://tlml.github.io/invited/laitinen-2012-st-andrews/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2012-st-andrews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A steady-state two-fluid wave heating model for the solar wind</title>
+      <link>https://tlml.github.io/invited/laitinen-2002-bochum-200205-seminar/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2002-bochum-200205-seminar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

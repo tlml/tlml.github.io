@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminar talk | Timo Laitinen</title>
+    <link>https://tlml.github.io/category/seminar-talk/</link>
+      <atom:link href="https://tlml.github.io/category/seminar-talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seminar talk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Seminar talk</title>
+      <link>https://tlml.github.io/category/seminar-talk/</link>
+    </image>
+    
+    <item>
+      <title>Cross-field transport of energetic particles early in a solar event</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2013-jhi/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2013-jhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the relation between solar wind heating and energetic particles</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2002-vispa-seminar/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2002-vispa-seminar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

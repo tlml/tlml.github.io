@@ -5,12 +5,20 @@
     <link>https://tlml.github.io/tag/interplanetary-medium/</link>
       <atom:link href="https://tlml.github.io/tag/interplanetary-medium/index.xml" rel="self" type="application/rss+xml" />
     <description>Interplanetary medium</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Interplanetary medium</title>
       <link>https://tlml.github.io/tag/interplanetary-medium/</link>
     </image>
+    
+    <item>
+      <title>The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29</title>
+      <link>https://tlml.github.io/publication/2021-aa-656-a-20-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/publication/2021-aa-656-a-20-k/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forecasting Solar Energetic Particle Fluence with Multi-Spacecraft Observations</title>

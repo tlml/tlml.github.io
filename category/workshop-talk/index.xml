@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop talk | Timo Laitinen</title>
+    <link>https://tlml.github.io/category/workshop-talk/</link>
+      <atom:link href="https://tlml.github.io/category/workshop-talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop talk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Workshop talk</title>
+      <link>https://tlml.github.io/category/workshop-talk/</link>
+    </image>
+    
+    <item>
+      <title>On the Influence of Cascade to Solar Wind and Energetic Particles</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2003-platon-workshop-3/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2003-platon-workshop-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A steady-state two-fluid wave heating model for the solar wind</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2002-platon-workshop-2/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2002-platon-workshop-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relation between cyclotron heating and SEP acceleration on open coronal field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2001-platon-workshop-1/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2001-platon-workshop-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

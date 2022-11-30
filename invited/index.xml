@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited presentations | Timo Laitinen</title>
+    <link>https://tlml.github.io/invited/</link>
+      <atom:link href="https://tlml.github.io/invited/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invited presentations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Invited presentations</title>
+      <link>https://tlml.github.io/invited/</link>
+    </image>
+    
+    <item>
+      <title>Solar energetic Particle transport in the heliosphere</title>
+      <link>https://tlml.github.io/invited/laitinen-2022-northumbria/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2022-northumbria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of SEP anisotropy on velocity dispersion analysis</title>
+      <link>https://tlml.github.io/invited/laitinen-2022-serpentine/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2022-serpentine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEP prediction and forecasting: Current status</title>
+      <link>https://tlml.github.io/invited/laitinen-2019-l-5-l-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2019-l-5-l-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of non-diffusive transport of solar energetic particles</title>
+      <link>https://tlml.github.io/invited/laitinen-2018-cospar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2018-cospar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent advances in heliospheric transport of solar energetic particles</title>
+      <link>https://tlml.github.io/invited/laitinen-2018-dgp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2018-dgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle access to distant heliolongitudes</title>
+      <link>https://tlml.github.io/invited/laitinen-2018-agu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2018-agu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar particle transport in the inner heliosphere</title>
+      <link>https://tlml.github.io/invited/laitinen-2018-calabria/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2018-calabria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Overview on Future Solar and Heliospheric Research</title>
+      <link>https://tlml.github.io/invited/laitinen-2016-ecrs/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2016-ecrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle Propagation in the Heliosphere: Before Diffusion</title>
+      <link>https://tlml.github.io/invited/laitinen-2016-glasgow/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2016-glasgow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle Propagation in the Heliosphere: Before Diffusion</title>
+      <link>https://tlml.github.io/invited/laitinen-2016-imperial/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2016-imperial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Propagation in Critically Balanced Turbulence</title>
+      <link>https://tlml.github.io/invited/laitinen-2015-bad-honnef/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2015-bad-honnef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle transport across the Parker field direction due to field line meandering (with an Introduction to particle transport)</title>
+      <link>https://tlml.github.io/invited/laitinen-2015-nam/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2015-nam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Transport in Space Plasmas: Theory and Modeling</title>
+      <link>https://tlml.github.io/invited/laitinen-2014-ag-inv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2014-ag-inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport of high-energy particles in the interplanetary plasma</title>
+      <link>https://tlml.github.io/invited/laitinen-2014-nam-inv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2014-nam-inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing solar particle event onset: The effect of pre-event background</title>
+      <link>https://tlml.github.io/invited/laitinen-2013-sepserver-paris/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2013-sepserver-paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of field-line meandering in the early evolution of a Solar Energetic Particle Event</title>
+      <link>https://tlml.github.io/invited/laitinen-2013-bochum-may/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2013-bochum-may/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of field-line meandering in the early evolution of a Solar Energetic Particle Event</title>
+      <link>https://tlml.github.io/invited/laitinen-2013-kiel/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2013-kiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particles in Turbulent Heliosphere</title>
+      <link>https://tlml.github.io/invited/laitinen-2012-st-andrews/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2012-st-andrews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Heliospheric Turbulence</title>
+      <link>https://tlml.github.io/invited/laitinen-2007-wurzburg/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2007-wurzburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar wind turbulence and SEPs</title>
+      <link>https://tlml.github.io/invited/laitinen-2003-ucrjet/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2003-ucrjet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A steady-state two-fluid wave heating model for the solar wind</title>
+      <link>https://tlml.github.io/invited/laitinen-2002-bochum-200205-seminar/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2002-bochum-200205-seminar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

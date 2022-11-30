@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributed talks and posters | Timo Laitinen</title>
+    <link>https://tlml.github.io/contributed_presentations/</link>
+      <atom:link href="https://tlml.github.io/contributed_presentations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contributed talks and posters</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Contributed talks and posters</title>
+      <link>https://tlml.github.io/contributed_presentations/</link>
+    </image>
+    
+    <item>
+      <title>Solar Energetic Particle pathlengths in Parker spiral geometry with 2D-slab turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2022-issi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2022-issi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle pathlengths in Parker spiral geometry with 2D-slab turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2022-nam/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2022-nam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access of cosmic rays to an ICME from external field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2021-cospar/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2021-cospar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access of cosmic rays to an ICME from external field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2021-icrc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2021-icrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing arrival times of solar energetic particles</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2021-alliance/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2021-alliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEP pathlengths at different heliolongitudes</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2021-sol-o-wg/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2021-sol-o-wg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian analysis of STEREO turbulence observations for solar energetic particle transport</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2019-mist/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2019-mist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of large-scale drifts on SEP propagation along turbulent magnetic field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2020-uksp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2020-uksp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathlengths of Solar Energetic Particles in heliospheric turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2020-kiel-meand/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2020-kiel-meand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEP pathlenghts and onset analysis</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2020-issi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2020-issi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEPs with HelioPy</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2020-kiel-helio-py/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2020-kiel-helio-py/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian analysis of solar wind turbulence for solar energetic particle transport</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2019-m-lhelio/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2019-m-lhelio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathlengths of Solar Energetic Particles in heliospheric turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2019-nam/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2019-nam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling SEP transport along meandering field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2018-flrwnasa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2018-flrwnasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting Solar Energetic Particle Fluence with Multi-Spacecraft Observations</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2017-exeter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2017-exeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next-Generation Modelling of Solar Energetic Particles</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2017-l-5-l-1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2017-l-5-l-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle propagation along meandering field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2017-ras-orbiter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2017-ras-orbiter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What can we learn from L1/L5 Solar Energetic Particle observations?</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2017-l-5-gottingen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2017-l-5-gottingen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charged particle propagation along and across random-walking field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2016-ras/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2016-ras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charged particles in solar wind turbulence: Transition from field line meandering dominated propagation to diffusion</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2016-nam/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2016-nam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle transport along meandering interplanetary magnetic field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2016-egu/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2016-egu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle transport along meandering interplanetary magnetic field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2016-mist/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2016-mist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charged particle propagation: Transition from fieldlines to diffusion</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2015-issi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2015-issi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEP observations from L5: a view on anisotropies and space weather prediction</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2015-l-5/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2015-l-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport of Solar Energetic Particles across the Parker field due to field line meandering</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2015-icrc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2015-icrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport of Solar Energetic Particles across the Parker field due to field line meandering</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2015-iss-ijoint/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2015-iss-ijoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic particle cross-field propagation in meandering fields</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2014-nam-poster/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2014-nam-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic particle cross-field propagation in meandering fields</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2014-ra-spart-poster/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2014-ra-spart-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of field-line meandering in the early evolution of a solar energetic particle event</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2014-bath-mist/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2014-bath-mist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of field-line meandering in the interplanetary propagation of Solar Energetic Particles</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2014-manchester-alliance/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2014-manchester-alliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport of Solar Energetic Particles across the Parker field direction due to field line meandering</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2014-agu/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2014-agu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceleration of Solar Energetic Particles through self-generated waves in coronal shocks</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2013-ras-acc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2013-ras-acc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-field transport of energetic particles early in a solar event</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2013-jhi/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2013-jhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic particle cross-field propagation early in a solar event</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2013-ewass/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2013-ewass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perpendicular transport of Solar Energetic Particles through Field-line meandering</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2013-ras-spaceweather/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2013-ras-spaceweather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of field-line meandering in the early evolution of a Solar Energetic Particle Event</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2013-shine/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2013-shine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing solar particle event onset: The effect of pre-event background</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2012-sonoma/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2012-sonoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic particle propagation in structured turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2012-nam/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2012-nam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic particle propagation in structured turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2012-palm-springs/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2012-palm-springs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic particle transport in turbulence with scale-dependent anisotropy</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2012-sw-13/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2012-sw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic particle propagation in structured turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2011-sun-360/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2011-sun-360/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test particle studies of wave-particle interaction</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2011-jan-glasgow/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2011-jan-glasgow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case studies on the effect of pre-event background in solar particle event timing</title>
+      <link>https://tlml.github.io/contributed_presentations/laitine-2010-cospar/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitine-2010-cospar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case studies on the effect of pre-event background in solar particle event timing</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2010-ecrs/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2010-ecrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the effect of pre-event background in solar particle event timing</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2010-mist/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2010-mist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shock Obliquity And Pre-Heated Particle Populations In Self-Consistent Particle Shock Acceleration</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2010-phys-days/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2010-phys-days/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On The Effect Of Pre-Event Background In Determining Solar Particle Event Onset</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2009-fin-cospar/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2009-fin-cospar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Heliospheric Turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2007-fin-cospar/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2007-fin-cospar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Model for Reflection-Driven Spectral Evolution of Turbulence in the Corona and Inner Heliosphere</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2005-wien/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2005-wien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A solar wind model with a reflection-driven cascade</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2005-sw-11/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2005-sw-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbulence in solar wind modeling</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2005-copap/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2005-copap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where to go with Turbulence</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2007-idtrap/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2007-idtrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simple formulation for non-WKB wave reflection from large-scale gradients</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2004-kiel/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2004-kiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic Particle Mean Free Path in the Corona: Toward a Consistent Treatment</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2004-chapman/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2004-chapman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heliospheric turbulence, solar wind and energetic particles</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2004-copap/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2004-copap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Influence of Non-WKB Reflection on Turbulent Cascading</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2004-paris/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2004-paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave reflection-driven cascade in the solar wind</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2004-strasbourg/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2004-strasbourg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consequences of wave-wave -interactions for solar wind heating and energetic particle transport</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2003-nice-1/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2003-nice-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoeffective CMEs and Energetic Particles: The Influence of Ambient Solar Wind</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2003-nice-2/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2003-nice-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Influence of Cascade to Solar Wind and Energetic Particles</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2003-platon-workshop-3/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2003-platon-workshop-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web access to the SOHO/ERNE energetic particle data</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2003-nice-3/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2003-nice-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A steady-state two-fluid wave heating model for the solar wind</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2002-platon-workshop-2/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2002-platon-workshop-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the relation between solar wind heating and energetic particles</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2002-vispa-seminar/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2002-vispa-seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relation between cyclotron heating and SEP acceleration on open coronal field lines</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-2001-platon-workshop-1/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-2001-platon-workshop-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar energetic particle event and radio bursts associated with the 1996 July 9 flare and coronal mass ejection</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-ea-2000-aa-jul-96-2000-a-poster/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-ea-2000-aa-jul-96-2000-a-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMS:n sukkulalento</title>
+      <link>https://tlml.github.io/contributed_presentations/laitinen-1998-ams-poster/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/laitinen-1998-ams-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Energetic and Relativistic Nuclei and Electron Experiment ERNE</title>
+      <link>https://tlml.github.io/contributed_presentations/makela-laitinen-1997-culham-poster/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/contributed_presentations/makela-laitinen-1997-culham-poster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited Seminar | Timo Laitinen</title>
+    <link>https://tlml.github.io/category/invited-seminar/</link>
+      <atom:link href="https://tlml.github.io/category/invited-seminar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invited Seminar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tlml.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Invited Seminar</title>
+      <link>https://tlml.github.io/category/invited-seminar/</link>
+    </image>
+    
+    <item>
+      <title>Solar energetic Particle transport in the heliosphere</title>
+      <link>https://tlml.github.io/invited/laitinen-2022-northumbria/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tlml.github.io/invited/laitinen-2022-northumbria/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
